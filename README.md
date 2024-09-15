@@ -14,7 +14,6 @@ Welcome to my portfolio! I’m Ahmed, a machine learning engineer and computer s
   - **Exploratory Data Analysis**: Conducted detailed visualizations to gain insights into the dataset.
   - **Data Preprocessing**: Implemented label encoding, feature selection, and scaling for optimal model performance.
   - **Modeling**: Compared five machine learning models (Logistic Regression, SVM, Decision Tree, Random Forest, KNN).
-- **Results**: Achieved an accuracy of 0.75.
 - **GitHub**: [View Project](https://github.com/AhmedAlaa27/NeuronetiX-Session2-Classification)
 
 ### Bank Customers Churn Prediction
